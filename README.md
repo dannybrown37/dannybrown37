@@ -5,16 +5,16 @@ Software engineer. Billions of messages from thousands of vehicles, across two c
 **[dannybrown.dev](https://dannybrown.dev)** — writing, projects, and the digital garden.
 
 ```mermaid
+%%{init: {'theme':'dark'}}%%
 mindmap
   root((dannybrown.dev))
-    Writing
-      Blog
-      Digital garden
-      "The copy is an endless project"
     Building
       ccgarden
       Claude Code tinkering
       Agent skills
+      Writing
+        Blog
+        Digital garden
     Day job
       Vehicle telemetry
       Billions of messages
