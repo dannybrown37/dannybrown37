@@ -12,7 +12,7 @@ Software engineer. Billions of messages from thousands of vehicles, across two c
   'cScaleLabel0':'#f0f6fc','cScaleLabel1':'#f0f6fc','cScaleLabel2':'#f0f6fc','cScaleLabel3':'#f0f6fc'
 }}}%%
 mindmap
-  root((dannybrown.dev))
+  root((Danny))
     Find me
       github.com/dannybrown37
       linkedin.com/in/dannybrown37
