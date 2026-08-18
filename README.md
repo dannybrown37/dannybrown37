@@ -1,16 +1,26 @@
-## Hi there 👋
+# Danny Brown
 
-<!--
-**dannybrown37/dannybrown37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer. Billions of messages from thousands of vehicles, across two companies since 2021.
 
-Here are some ideas to get you started:
+**[dannybrown.dev](https://dannybrown.dev)** — writing, projects, and the digital garden.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```mermaid
+flowchart LR
+    you([you, right now]) --> profile[["github.com/dannybrown37"]]
+
+    profile --> site(("dannybrown.dev"))
+
+    site --> writing[/"writing"/]
+    site --> garden[("digital garden")]
+    site --> projects{{"projects"}}
+
+    writing --> post1["agent skills turn notes into ethos"]
+    garden --> ccgarden["ccgarden"]
+    projects --> ccgarden
+
+    ccgarden -.->|"notes on Claude Code"| you
+
+    classDef default fill:#1a1a1a,stroke:#888,color:#eee;
+    classDef site fill:#2b6cb0,stroke:#63b3ed,color:#fff,font-weight:bold;
+    class site site
+```
