@@ -9,6 +9,11 @@ Software engineer. Billions of messages from thousands of vehicles, across two c
 flowchart TD
     root(("dannybrown.dev"))
 
+    root --> findme["Find me"]
+    findme --> github["GitHub"]
+    findme --> linkedin["LinkedIn"]
+    findme --> email["tinker@dannybrown.dev"]
+
     root --> building["Building"]
     building --> ccgarden["ccgarden"]
     building --> tinkering["Claude Code tinkering"]
@@ -18,11 +23,6 @@ flowchart TD
     root --> dayjob["Day job"]
     dayjob --> telemetry["Vehicle telemetry"]
     dayjob --> scale["Billions of messages,<br/>since 2021"]
-
-    root --> findme["Find me"]
-    findme --> github["GitHub"]
-    findme --> linkedin["LinkedIn"]
-    findme --> email["tinker@dannybrown.dev"]
 
     click github "https://github.com/dannybrown37" _blank
     click linkedin "https://linkedin.com/in/dannybrown37" _blank
