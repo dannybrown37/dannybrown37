@@ -23,6 +23,10 @@ flowchart TD
     findme --> github["GitHub"]
     findme --> linkedin["LinkedIn"]
     findme --> email["tinker@dannybrown.dev"]
+
+    click github "https://github.com/dannybrown37" _blank
+    click linkedin "https://linkedin.com/in/dannybrown37" _blank
+    click email "mailto:tinker@dannybrown.dev" _blank
 ```
 
 - 🌱 [ccgarden](https://github.com/dannybrown37/ccgarden) — my Claude Code notes and tools
