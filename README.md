@@ -5,24 +5,24 @@ Software engineer. Billions of messages from thousands of vehicles, across two c
 **[dannybrown.dev](https://dannybrown.dev)** — writing, projects, and the digital garden.
 
 ```mermaid
-%%{init: {'theme':'dark'}}%%
-mindmap
-  root((dannybrown.dev))
-    Building
-      ccgarden
-      Claude Code tinkering
-      Agent skills
-      Writing
-        Blog
-        Digital garden
-    Day job
-      Vehicle telemetry
-      Billions of messages
-      Since 2021
-    Find me
-      GitHub
-      LinkedIn
-      tinker@dannybrown.dev
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#1f6feb','primaryTextColor':'#f0f6fc','primaryBorderColor':'#58a6ff','lineColor':'#8b949e','textColor':'#f0f6fc','fontSize':'16px'}}}%%
+flowchart TD
+    root(("dannybrown.dev"))
+
+    root --> building["Building"]
+    building --> ccgarden["ccgarden"]
+    building --> tinkering["Claude Code tinkering"]
+    building --> skills["Agent skills"]
+    skills --> writing["Writing<br/>(blog + digital garden)"]
+
+    root --> dayjob["Day job"]
+    dayjob --> telemetry["Vehicle telemetry"]
+    dayjob --> scale["Billions of messages,<br/>since 2021"]
+
+    root --> findme["Find me"]
+    findme --> github["GitHub"]
+    findme --> linkedin["LinkedIn"]
+    findme --> email["tinker@dannybrown.dev"]
 ```
 
 - 🌱 [ccgarden](https://github.com/dannybrown37/ccgarden) — my Claude Code notes and tools
