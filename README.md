@@ -18,15 +18,18 @@ mindmap
       linkedin.com/in/dannybrown37
       tinker@dannybrown.dev
     Building
-      ccgarden
-      Claude Code tinkering
-      Agent skills
+      gtd
+      git-a-grip
+      hamilhamilhamil
+      dannybrown.dev
         Writing
-          Blog
-          Digital garden
+        Portfolio
+        Easter eggs
     Day job
       Vehicle telemetry
-      Billions of messages,<br/>since 2021
+      Billions of messages since 2021
+
 ```
 
 **Find me:** [GitHub](https://github.com/dannybrown37) · [LinkedIn](https://linkedin.com/in/dannybrown37) · [tinker@dannybrown.dev](mailto:tinker@dannybrown.dev)
+
