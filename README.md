@@ -1,6 +1,6 @@
 # Danny Brown
 
-Software engineer. Billions of messages from thousands of vehicles, across two companies since 2021.
+Software engineer.
 
 **[dannybrown.dev](https://dannybrown.dev)** — writing, projects, and the digital garden.
 
