@@ -20,7 +20,7 @@ mindmap
     Building
       CLIs
       TUIs
-      Static websites
+      Snappy websites
       Agentic AI
       Dev Tooling
       dannybrown.dev
