@@ -18,9 +18,11 @@ mindmap
       linkedin.com/in/dannybrown37
       tinker@dannybrown.dev
     Building
-      gtd
-      git-a-grip
-      hamilhamilhamil
+      CLIs
+      TUIs
+      Static websites
+      Agentic AI
+      Dev Tooling
       dannybrown.dev
         Writing
         Portfolio
@@ -28,6 +30,7 @@ mindmap
     Day job
       Vehicle telemetry
       Billions of messages since 2021
+      Staff-level SWE
 
 ```
 
