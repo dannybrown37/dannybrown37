@@ -34,5 +34,5 @@ mindmap
 
 ```
 
-**Find me:** [GitHub](https://github.com/dannybrown37) · [LinkedIn](https://linkedin.com/in/dannybrown37) · [tinker@dannybrown.dev](mailto:tinker@dannybrown.dev)
+**Find me:** [GitHub](https://github.com/dannybrown37) · [LinkedIn](https://linkedin.com/in/dannybrown37) · [Email](mailto:tinker@dannybrown.dev)
 
