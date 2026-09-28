@@ -8,7 +8,7 @@ Software engineer.
 %%{init: {'theme':'base', 'themeVariables': {
   'primaryColor':'#1f6feb','primaryTextColor':'#f0f6fc','primaryBorderColor':'#58a6ff',
   'lineColor':'#8b949e','textColor':'#f0f6fc','fontSize':'16px',
-  'cScale0':'#1f6feb','cScale1':'#1f6feb','cScale2':'#1f6feb','cScale3':'#1f6feb',
+  'cScale0':'#1f6feb','cScale1':'#238636','cScale2':'#8250df','cScale3':'#1f6feb',
   'cScaleLabel0':'#f0f6fc','cScaleLabel1':'#f0f6fc','cScaleLabel2':'#f0f6fc','cScaleLabel3':'#f0f6fc'
 }}}%%
 mindmap
